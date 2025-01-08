@@ -3,7 +3,7 @@ This repository presents the training datasets and the derived Moment Tensor Pot
 
 You are advised to cite the following paper if the dataset and/or the potential are used in your publications:
 
-> Haojie Mei, Luyao Cheng, Liang Chen, Feifei Wang, Jinfu Li, Lingti Kong. Development of machine learning interatomic potential for zinc. Computational Materials Science 233(30):112723, 2024. https://doi.org/10.1016/j.commatsci.2023.112723
+> Haojie Mei, Luyao Cheng, Liang Chen, Feifei Wang, Guiqin Yang, Jinfu Li, Lingti Kong. Zn segregation in BCC Fe grain boundaries and its role in liquid metal embrittlement revealed by atomistic simulations. Journal of Materials Science & Technology, in press. [https://doi.org/10.1016/j.jmst.2024.10.052](https://doi.org/10.1016/j.jmst.2024.10.052).
 
 ## Training set (Fitting\_data)
 The training dataset that can be used readily by the MLIP.
